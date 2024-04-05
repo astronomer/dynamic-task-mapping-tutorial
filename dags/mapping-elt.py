@@ -11,7 +11,7 @@ from pendulum import datetime
 
 
 @dag(
-    start_date=datetime(2022, 4, 2),
+    start_date=datetime(2024, 4, 2),
     catchup=False,
     template_searchpath="/usr/local/airflow/include",
     schedule="@daily",
