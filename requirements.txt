@@ -1,1 +1,2 @@
-apache-airflow-providers-snowflake
+apache-airflow-providers-amazon==8.19.0
+apache-airflow-providers-snowflake==5.3.0
